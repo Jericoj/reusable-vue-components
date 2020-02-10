@@ -72,7 +72,7 @@
 </div>
 </template>
 <script>
-import select from '../../../smpUtils/selectors/smpSelector.vue'
+import select from '../../smpUtils/selectors/smpSelector.vue'
 import { mapGetters } from 'vuex'
 export default{
   components: {

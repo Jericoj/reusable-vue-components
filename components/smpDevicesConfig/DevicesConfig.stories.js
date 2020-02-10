@@ -1,5 +1,5 @@
 import { storiesOf } from '@storybook/vue'
-import smpDevicesConfig from './devicesConfig.vue'
+import smpDevicesConfig from './DevicesConfig'
 
 storiesOf('smpDevicesConfig', module)
   .add('data', () => ({
