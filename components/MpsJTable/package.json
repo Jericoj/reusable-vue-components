@@ -1,10 +1,10 @@
 {
   "name": "mps-j-table",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "mps-j-table-row": "^1.0.14"
+    "mps-j-table-row": "^1.0.15"
   }
 }
