@@ -1,6 +1,6 @@
 {
-  "name": "@mps/mps-j-table-row",
-  "version": "1.0.13",
+  "name": "mps-j-table-row",
+  "version": "1.0.14",
   "publishConfig": {
     "access": "public"
   },
