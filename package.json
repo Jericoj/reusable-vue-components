@@ -1,7 +1,9 @@
 {
   "name": "@mps/mps-reusable-vue-component",
+  "description": "mps-reusable-vue-component",
   "private": false,
   "version": "1.0.0",
+  "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.8.4",
     "@storybook/addon-actions": "^5.3.12",
@@ -19,7 +21,8 @@
   },
   "scripts": {
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "Lerna-publish": "lerna publish --force-publish"
   },
   "publishConfig": {
     "access": "public"
