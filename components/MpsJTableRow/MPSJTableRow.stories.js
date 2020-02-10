@@ -1,7 +1,7 @@
 import { storiesOf } from '@storybook/vue'
-import JTableRow from './JTableRow'
+import JTableRow from './MPSJTableRow'
 
-storiesOf('JTableRow', module)
+storiesOf('MPSJTableRow', module)
   .add('normal', () => ({
     components: { JTableRow },
     template:
@@ -12,7 +12,7 @@ storiesOf('JTableRow', module)
     `,
     data: () => ({
       values: [
-        'Josús Rivera',
+        'Jesús Rivera',
         'jericoj2@gmail.com'
       ]
     })
