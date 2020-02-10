@@ -1,8 +1,8 @@
 {
   "name": "@mps/mps-j-table-row",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "7fe1a48a2c18740367252a3fd8d3483fd8df4845"
+  "gitHead": "12bbf694886ed71f6258b0271a289f32d203a71c"
 }
