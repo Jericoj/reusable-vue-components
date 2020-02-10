@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "@mps/mps-reusable-vue-component",
   "private": false,
   "version": "1.0.0",
   "devDependencies": {
